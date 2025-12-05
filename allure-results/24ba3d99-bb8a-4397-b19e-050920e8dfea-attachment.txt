@@ -1,0 +1,1 @@
+<a href="#about" class="text-text-secondary hover:text-brand-primary transition-colors text-base">О нас</a>

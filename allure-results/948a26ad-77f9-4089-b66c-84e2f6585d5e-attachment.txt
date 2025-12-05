@@ -1,0 +1,1 @@
+<a href="#testimonials" class="text-text-secondary hover:text-brand-primary transition-colors text-base">Отзывы</a>

@@ -1,0 +1,5 @@
+Anchor #3 "О нас" -> #about: Target id 'about' not found
+Anchor #4 "Вакансии" -> #specializations: Target id 'specializations' not found
+Anchor #5 "Отзывы" -> #testimonials: Target id 'testimonials' not found
+Anchor #12 "Политика конфиденциальности" -> #: Target id '' not found
+Anchor #13 "Условия использования" -> #: Target id '' not found
