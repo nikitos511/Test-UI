@@ -1,1 +1,0 @@
-<a href="#contact" class="text-text-secondary hover:text-brand-primary transition-colors text-base">Консультация</a>
